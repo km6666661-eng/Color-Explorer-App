@@ -2,7 +2,7 @@
 
 📱 Features
 
-###🔐 Login & Registration
+### 🔐 Login & Registration
 
 -3 input fields: Name, Username, Password
 
@@ -12,17 +12,17 @@ Form validation (Bonus): prevents empty fields
 
 Password visibility toggle (Bonus)
 
-###🧭 Main Navigation
+### 🧭 Main Navigation
 
 Bottom Navigation Bar with:
 
-🎨 Gallery
+### 🎨 Gallery
 
-⚙️ Settings
+### ⚙️ Settings
 
 Smooth navigation between screens
 
-🎨 Color Gallery
+### 🎨 Color Gallery
 
 Grid layout (2 columns) using GridView.builder
 
@@ -30,13 +30,13 @@ Live search filtering
 
 Click any color to view details
 
-###🖼️ Color Detail Screen
+### 🖼️ Color Detail Screen
 
 Full screen changes to selected color
 
 Back button to return to gallery
 
-###⚙️ Settings Screen
+### ⚙️ Settings Screen
 
 Welcome message
 
@@ -44,13 +44,13 @@ Developer info using ListView.builder
 
 Logout button
 
-###🚪 Logout Functionality
+### 🚪 Logout Functionality
 
 Uses Navigator.pushAndRemoveUntil
 
 Clears all navigation history and returns to Login screen
 
-🛠️ Technologies Used
+#### 🛠️ Technologies Used
 
 Flutter
 
@@ -58,7 +58,7 @@ Dart
 
 Material UI
 
-###📌 Concepts Covered
+#### 📌 Concepts Covered
 
 Navigation (push / pushAndRemoveUntil)
 
